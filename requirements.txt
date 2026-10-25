@@ -1,0 +1,7 @@
+numpy
+pandas
+scipy
+scikit-learn
+torch
+fair-esm
+matplotlib
